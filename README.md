@@ -23,7 +23,8 @@ https://docs.google.com/document/d/1PAoPz-3vDPFWS5q9RHRb-dC7T4earpFXJW8w6v9wfZ0/
 - "What we really need from those building the Internet of Things is commitment" &rarr; companies must commit to not abuse the power of having their softawre in consumer's homes
 - I think there is a blurry lines in IoTs. Do phones count? If so, there does not seem to be an "unplugged" alternative, as there are with thermostats and lightbulbs. With this in mind, it seems almost impossible to fully avoid IoT.
 - Can the Internet of Things be sustainable (for consumers) in the long term? Are the benefits of IOT over "regular" gadgets worth it?
-#
+
+<br>
 
 "The Internet of Things: Roadmap to a Connected World" by Sanjay Sarma
 
@@ -31,18 +32,41 @@ https://docs.google.com/document/d/1PAoPz-3vDPFWS5q9RHRb-dC7T4earpFXJW8w6v9wfZ0/
 - "No question about it: The IoT will influence everything from robots and retail to buildings and banking" &rarr; In response to my question above, Sarma seems to believe there isn't (or won't be) aspects of life not affected by IoT. 
 - Although Sarma's roadmap is reasonable in the sense that it provides a solid alternative to most security concerns with IoT, I think it is impractical, as it requires manufacturers to collaborate with each other even though they are mostly each other's competition.
 - Is Sarma's roadmap viable?
+
+### Experiments
+<!-- List each Platt experiment / Monk recipe outcome, adding notes, photos, schematics, captions to show your work. -->
+
+Experiments for the week delayed. See DevLog Wk. 2
 #
+## Week 2
+
+### Context
+
+<br>
+
+Article
+- Summarize the article(s) in 3-4 sentences. Also include...
+- 1 quote from the reading(s)
+- 1 related comment on the reading(s)
+- 1 related follow-up question (what question does it bring up for you?)
+
+<br>
+
 Platt
 - Summarize the article(s) in 3-4 sentences. Also include...
 - 1 quote from the reading(s)
 - 1 related comment on the reading(s)
 - 1 related follow-up question (what question does it bring up for you?)
-#
+  
+<br>
+
 Monk
 - Summarize the article(s) in 3-4 sentences. Also include... 
 - 1 quote from the reading(s)
 - 1 related comment on the reading(s)
 - 1 related follow-up question (what question does it bring up for you?
+
+<br>
 
 ### Experiments
 <!-- List each Platt experiment / Monk recipe outcome, adding notes, photos, schematics, captions to show your work. -->
