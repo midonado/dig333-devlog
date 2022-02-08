@@ -72,22 +72,33 @@ Monk
 <!-- List each Platt experiment / Monk recipe outcome, adding notes, photos, schematics, captions to show your work. -->
 
 1. Your First Circuit
-  ![Circuit One](wk2-img/circuit-one.jpg)
+  ![Circuit One](wk2-img/circuit-one.jpg) ![Measuring Voltage](wk2-img/measuring-volt.jpg)
 
-       *  Instead of shorting a battery, we burnt an LED by increasing the voltage beyond its limit.
+       1.  Breadboards are very useful!
   
-       *  We increased the limit by chaining batteries together in parallel as opposed to in series.
+       2.  LEDs work (can be plugged) in both directions
+  
+       3.  LEDs have specific ammount of V they can handle. The resistance needed can be calculated by using Ohm's Law
+  
+       4.  Ohm's Law → V = I * R, can be re-arranged to solve for different variables
+  
+       5.  Our LED worked without resistors due to smaller batteries (three AAA batteries as opposed to a 9V)
    
     + I learned that connecting multiple batteries to a breadboard does not increase the voltage, but that instead they should be connected in parallel. 
+  
     + How is voltage affected by chaining batteries together?
 
 <br>
 
-1. Let’s Abuse a Battery!
-    1. ![Burnt LED](wk2-img/burn-led.jpg)
-       - Instead of shorting a battery, we burnt an LED by increasing the voltage beyond its limit.
-       - We increased the limit by chaining batteries together in parallel as opposed to in series.
-    2. I learned that connecting multiple batteries to a breadboard does not increase the voltage, but that instead they should be connected in parallel. 
-    3. How is voltage affected by chaining batteries together?
+2. Let’s Abuse a Battery!
+   
+   ![Burnt LED](wk2-img/burn-led.jpg)
 
+       1.  Instead of shorting a battery, we burnt an LED by increasing the voltage beyond its limit.
+  
+       2.  We increased the limit by chaining batteries together in parallel as opposed to in series.
+   
+    + I learned that connecting multiple batteries to a breadboard does not increase the voltage, but that instead they should be connected in parallel. 
+
+    + How is voltage affected by chaining batteries together?
 
