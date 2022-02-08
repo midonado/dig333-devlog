@@ -73,7 +73,7 @@ Monk
 
 1. Let’s Abuse a Battery!
     1. Text, photos, etc.
-  ![Burnt LED](wk2-img/burn-led.jpgwk2-img/)
+  ![Burnt LED](wk2-img/burn-led.jpg/)
         -  Instead of shorting a battery, we burnt an LED by increasing the voltage beyond its limit.
     1. Describe the most important thing you learned (to share in class)
     2. Write a quiz question (which we will discuss in class)
