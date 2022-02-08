@@ -44,27 +44,11 @@ Experiments for the week delayed. See DevLog Wk. 2
 
 <br>
 
-Article
-- Summarize the article(s) in 3-4 sentences. Also include...
-- 1 quote from the reading(s)
-- 1 related comment on the reading(s)
-- 1 related follow-up question (what question does it bring up for you?)
-
-<br>
-
-Platt
-- Summarize the article(s) in 3-4 sentences. Also include...
-- 1 quote from the reading(s)
-- 1 related comment on the reading(s)
-- 1 related follow-up question (what question does it bring up for you?)
-  
-<br>
-
-Monk
-- Summarize the article(s) in 3-4 sentences. Also include... 
-- 1 quote from the reading(s)
-- 1 related comment on the reading(s)
-- 1 related follow-up question (what question does it bring up for you?
+Critical Engineering Manifesto + Julian Oliver's Artist Profile
+- The Critical Engineering Manifesto presents a series of guidelines to guide the discipline. Its creators define engineering as a language and urge critical engineers to use this langugae to examine (and challenge) every aspect of their lives, without disregarding the ethical and social implications of their products (product understood as the result of creation and not a commodity). Oliver's Artist Profile provides two examples of products as engineering starting a conversation (language function) that challenges the established notions of our current life. His projects give a sense of democratizing information and creation, in the sense of taking the power away from large private corporations.
+- "Engineering [is] most transformative language of our time, shaping the way we move, communicate and think."
+- I think it is interesting that Oliver defines engineering as a language. This has interesting implications, as engineering becomes part of other life processes rather than a discipline on its own. Oliver's definition makes engineering much more prevalent and pervasive. I think this is what makes it interesting.
+- How is Julian Oliver blurring the lines between art and engineering through his practices? Is there a real distinction between the two?
 
 <br>
 
