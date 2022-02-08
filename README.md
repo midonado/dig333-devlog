@@ -71,7 +71,9 @@ Monk
 ### Experiments
 <!-- List each Platt experiment / Monk recipe outcome, adding notes, photos, schematics, captions to show your work. -->
 
-1. Name of the experiment
+1. Let’s Abuse a Battery!
     1. Text, photos, etc.
+  ![Burnt LED](wk2-img/burn-led.jpgwk2-img/)
+        -  Instead of shorting a battery, we burnt an LED by increasing the voltage beyond its limit.
     1. Describe the most important thing you learned (to share in class)
-    1. Write a quiz question (which we will discuss in class)
+    2. Write a quiz question (which we will discuss in class)
