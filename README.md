@@ -118,3 +118,32 @@ Experiments for the week delayed. See DevLog Wk. 4
 ### Experiments
 <!-- List each Platt experiment / Monk recipe outcome, adding notes, photos, schematics, captions to show your work. -->
 
+### Experiment 3: Operating System
+
+#### Outcomes & Takeaways
+- Learned how to connect to my RPi, use its display remotely and navigate it with the command line
+
+![Virtual RPi Display](wk3-img/ch3/opening-vnc.png)
+![Screenshot](wk3-img/ch3/scrot.png)
+![CLI](wk3-img/ch3/file-copy.png)
+
+#### Comments & Variations
+- The VNC setup was not very clear and finding my Pi's address was kind of a hassle as there were no instructions. It is interesting how there are options for both ssh/cli usage of RPis as well as a virtual graphical interface.
+
+#### Questions
+- Can I move files from my computer to my RPi/the other way around?
+
+### Experiment 5: Python Basics
+
+#### Outcomes & Takeaways
+- Refreshed my Python knowledge and learned to write/manipulate python from the CLI without an IDE
+
+![String Manipulation](wk3-img/ch5/py-string.png)
+![Define Function](wk3-img/ch5/python-def.png)
+
+#### Comments & Variations
+- I think this Chapter did a good job of covering most of the Python basics and felt like a strong foundation into building larger scripts. I wish it went into more detail of creating/saving .py files but I assume it's similar to the process in Ch. 3
+
+#### Questions
+- How do I write, save, and execute larger python programs? 
+- Can I make python programs with a GUI through the CLI?
