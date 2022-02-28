@@ -11,7 +11,6 @@ https://docs.google.com/document/d/1PAoPz-3vDPFWS5q9RHRb-dC7T4earpFXJW8w6v9wfZ0/
 -->
 
 
-
 ## Week 1
 
 ### Context
@@ -151,48 +150,60 @@ Experiments for the week delayed. See DevLog Wk. 4
 
 ## Week 5
 
-### Context
+### Context 
 
-<br>
+"One Man's Nearly Impossible Quest to Make a Toaster From Scratch" by Rachel Swaby, "Everything That’s Inside Your iPhone" by Vice, "All Watched Over by Machines of Loving Grace" Pt. 3
 
-"The Preserving Machine" + "Pay for the Printer" by Phillip K. Dick, "All Watched Over by Machines of Loving Grace" Pt. 2
-- In both stories, Phillip K. Dick poses a dystopian future where men have become too reliant on machines, or in the case of "Pay for the Printer," <i>Bitlong</i> aliens with machine-like behavior. In this story, humans are born again as a civilization by going back to their origins and building tools by hand once again, losing their dependance on <i>Bitlongs</i> and their prints. In "The Preserving Machine," there seems to a be a concept of blackbox, as Doc Labyrinth does not understand the functioning of his own machine, but feels unable to turn back or alter the results. Further, this story relates to the perhaps flawed notion of nature as a perfectly balanced system presented in BBC's "All Watched Over by Machines of Loving Grace". Both of Dick's stories seem to be cautionary tales of machines functioning in the detriment of humans, wether because we expect too much of them or because we fail to understand their functionality. The BBC documentary goes a step further in presenting real life examples of communities that model life after the functioning of machines.
-- "Each time a creature came out he was astonished; he did not seem to have control over the results at all. It was out of his hands, subject to some strong, invisible law that had subtly taken over, and this worried him greatly."
-- Though this was written in the 1950s, Dick shows a concern for blackbox mechanisms, i.e. machines that function beyond the understanding and control of their creators/users. This seems to tie into our last class discussion.
-- Machines overtaking humans is an often explored path in dystopian sci-fi stories, but is overdependance in machines an equally concerning future? If so, is the trend of IOT pushing humanity in that direction?
+- Both articles point toward our general lack of knowledge or understanding of most every day appliances. Thwaites's toaster seems to suggest, similar to Pillip K. Dick's "Pay for the Printer," that humankind became too detached from producing. While Dick represents the manufacturing blackbox through an alien Bitlong that produces copies of objects, Twaites's project demonstrates that without some sort of alien force, humans became incapable to produce their own tools and machines. Alternatively, VICE's article considers the consequences of our lack of knowledge of the manufacturing process. The article looks at the conflict-ridden origin of many raw materials in popular tech products and points at the disparity between the price of raw materials and the final price of the iPhone. The article also seems to point out the injustice in many of the mines/facilities that produce these raw materials and how the blackbox nature of manufacturing contributes to these conditions still existing.
+- "Locked inside every [iPhone], alongside the fruits of unparalleled design and technological innovation, are trace amounts of human suffering. It's an uncomfortable truth, maybe, but for now, it's a part of what makes the one device possible."
+- Although the article seems critical of Apple (or, more broadly, companies who are not cognizant of their supply chains), the author seems to suggest that this is an unavoidable reality. I believe that this is true given the blackbox nature of these companies and the fact that their products exist at a scale too large to be comprehensible by every individual.
+- Does the responsability to demistify manufacturing blackboxes lie in consumers or manufacturers themselves? Can (or should be) the manufacturing process be made available to the public?
 
 <br>
 
 ### Experiments
 <!-- List each Platt experiment / Monk recipe outcome, adding notes, photos, schematics, captions to show your work. -->
 
-### Experiment 6: Title
+### Experiment 6: Very Simple Switching
 
 #### Outcomes & Takeaways
-- Learned how to []
+- Learned the different types of switches and how they function in a circuit. Learned how to connect multiple switches and how they interact with one another.
 
-[Images]
+![Images](wk6-img/IMG_5105.jpg)
 
 #### Comments & Variations
-- Thoughs
+- Due to the materials we had available, we used a contact switch with two poles as opposed to the book's toggle switch with three poles. The results, however, were comparable, and we were still able to understand the functional properties of switches
 
 #### Questions
-- Qs
+- Do different switches have different uses or are they interchangeable (other than temporary switches)? Are our contact switches single throw or do they have a separate internal setup? 
 
-### Experiment 7: Title
+### Experiment 7: Investigating a Relay
 
 #### Outcomes & Takeaways
-- Learned how to []
+- Learned the basics of how relays work and their purpose in a circuit and it's interactions with a button switch. Learned about continuity in a circuit and how to measure it with a multimeter.
 
 https://user-images.githubusercontent.com/55297780/156041369-59f57273-d25a-495d-bd84-3dcab9943a68.MOV
 
 #### Comments & Variations
-- Thoughs
+- Our relay was different from those depicted in the book, which meant it took us some extra trial and error to understand which pins were the spring
+
+#### Questions
+- What is the internal diagram of our relays? Are there any functional differences between ours and the books'?
+
+### Experiment 8: A Relay Oscillator
+
+#### Outcomes & Takeaways
+- Learned how to []
+
+[Images]
+
+#### Comments & Variations
+- We were initially unable 
 
 #### Questions
 - Qs
 
-### Experiment 8: Title
+### Experiment 9: Time and Capacitors
 
 #### Outcomes & Takeaways
 - Learned how to []
@@ -205,20 +216,7 @@ https://user-images.githubusercontent.com/55297780/156041369-59f57273-d25a-495d-
 #### Questions
 - Qs
 
-### Experiment 9: Title
-
-#### Outcomes & Takeaways
-- Learned how to []
-
-[Images]
-
-#### Comments & Variations
-- Thoughs
-
-#### Questions
-- Qs
-
-### Experiment 10: Title
+### Experiment 10: Transistor Switching
 
 #### Outcomes & Takeaways
 - Learned how to []
