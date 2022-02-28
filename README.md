@@ -147,3 +147,87 @@ Experiments for the week delayed. See DevLog Wk. 4
 #### Questions
 - How do I write, save, and execute larger python programs? 
 - Can I make python programs with a GUI through the CLI?
+
+
+## Week 5
+
+### Context
+
+<br>
+
+"The Preserving Machine" + "Pay for the Printer" by Phillip K. Dick, "All Watched Over by Machines of Loving Grace" Pt. 2
+- In both stories, Phillip K. Dick poses a dystopian future where men have become too reliant on machines, or in the case of "Pay for the Printer," <i>Bitlong</i> aliens with machine-like behavior. In this story, humans are born again as a civilization by going back to their origins and building tools by hand once again, losing their dependance on <i>Bitlongs</i> and their prints. In "The Preserving Machine," there seems to a be a concept of blackbox, as Doc Labyrinth does not understand the functioning of his own machine, but feels unable to turn back or alter the results. Further, this story relates to the perhaps flawed notion of nature as a perfectly balanced system presented in BBC's "All Watched Over by Machines of Loving Grace". Both of Dick's stories seem to be cautionary tales of machines functioning in the detriment of humans, wether because we expect too much of them or because we fail to understand their functionality. The BBC documentary goes a step further in presenting real life examples of communities that model life after the functioning of machines.
+- "Each time a creature came out he was astonished; he did not seem to have control over the results at all. It was out of his hands, subject to some strong, invisible law that had subtly taken over, and this worried him greatly."
+- Though this was written in the 1950s, Dick shows a concern for blackbox mechanisms, i.e. machines that function beyond the understanding and control of their creators/users. This seems to tie into our last class discussion.
+- Machines overtaking humans is an often explored path in dystopian sci-fi stories, but is overdependance in machines an equally concerning future? If so, is the trend of IOT pushing humanity in that direction?
+
+<br>
+
+### Experiments
+<!-- List each Platt experiment / Monk recipe outcome, adding notes, photos, schematics, captions to show your work. -->
+
+### Experiment 6: Title
+
+#### Outcomes & Takeaways
+- Learned how to []
+
+[Images]
+
+#### Comments & Variations
+- Thoughs
+
+#### Questions
+- Qs
+
+### Experiment 7: Title
+
+#### Outcomes & Takeaways
+- Learned how to []
+
+[Images]
+
+#### Comments & Variations
+- Thoughs
+
+#### Questions
+- Qs
+
+### Experiment 8: Title
+
+#### Outcomes & Takeaways
+- Learned how to []
+
+[Images]
+
+#### Comments & Variations
+- Thoughs
+
+#### Questions
+- Qs
+
+### Experiment 9: Title
+
+#### Outcomes & Takeaways
+- Learned how to []
+
+[Images]
+
+#### Comments & Variations
+- Thoughs
+
+#### Questions
+- Qs
+
+### Experiment 10: Title
+
+#### Outcomes & Takeaways
+- Learned how to []
+
+[Images]
+
+#### Comments & Variations
+- Thoughs
+
+#### Questions
+- Qs
+
