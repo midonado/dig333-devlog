@@ -184,7 +184,7 @@ Experiments for the week delayed. See DevLog Wk. 4
 #### Outcomes & Takeaways
 - Learned how to []
 
-[Images]
+https://user-images.githubusercontent.com/55297780/156041369-59f57273-d25a-495d-bd84-3dcab9943a68.MOV
 
 #### Comments & Variations
 - Thoughs
