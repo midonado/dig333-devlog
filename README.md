@@ -196,7 +196,7 @@ https://user-images.githubusercontent.com/55297780/156041369-59f57273-d25a-495d-
 #### Outcomes & Takeaways
 - Learned how to []
 
-[Images]
+https://user-images.githubusercontent.com/55297780/156283496-38cc9833-0950-4a45-b899-cd29761e6123.mp4
 
 #### Comments & Variations
 - We were initially unable 
@@ -211,6 +211,10 @@ https://user-images.githubusercontent.com/55297780/156041369-59f57273-d25a-495d-
 
 [Images]
 
+https://user-images.githubusercontent.com/55297780/156284085-d393025d-6eca-42b6-aa96-151fff4d5b68.mp4
+
+
+
 #### Comments & Variations
 - Thoughs
 
@@ -223,6 +227,8 @@ https://user-images.githubusercontent.com/55297780/156041369-59f57273-d25a-495d-
 - Learned how to []
 
 [Images]
+
+https://user-images.githubusercontent.com/55297780/156284095-aa71936b-c7cc-4cf1-bcdb-b088d95ffafa.mp4
 
 #### Comments & Variations
 - Thoughs
