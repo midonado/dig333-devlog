@@ -170,7 +170,7 @@ Experiments for the week delayed. See DevLog Wk. 4
 - Learned the different types of switches and how they function in a circuit. Learned how to connect multiple switches and how they interact with one another. 
 - Learned the difference between single throw and double throw switches &rarr; ST: only has two positions (ON-OFF). DT: has two positions and a "middle" (ON-OFF-ON)
 
-![Images](wk6-img/IMG_5105.jpg)
+![Images](wk5-img/IMG_5105.jpg)
 
 #### Comments & Variations
 - Due to the materials we had available, we used a contact switch with two poles as opposed to the book's toggle switch with three poles. The results, however, were comparable, and we were still able to understand the functional properties of switches
@@ -194,45 +194,39 @@ https://user-images.githubusercontent.com/55297780/156041369-59f57273-d25a-495d-
 ### Experiment 8: A Relay Oscillator
 
 #### Outcomes & Takeaways
-- Learned how to []
+- Learned the functioning of a capacitor: to charge up and "hold" power from the rest of the circuit and then release it. Learned about the units of capacitance (Farad, F) and how it represents a capacitor's capacity to store energy, i.e. how much it can "hold" at a time. Large capacitors can be dangerous because they can explode if plugged in the wrong direction or if left unattended for extended periods of time
 
 https://user-images.githubusercontent.com/55297780/156283496-38cc9833-0950-4a45-b899-cd29761e6123.mp4
 
 #### Comments & Variations
-- We were initially unable 
+- Similar to Experiment 7, the different relay layout made it initially difficult to follow along with the diagram, however after some trial and error I was able to get the circuit to work.
 
 #### Questions
-- Qs
+- What happens when a capacitor receives power beyond its capacitance? 
 
 ### Experiment 9: Time and Capacitors
 
 #### Outcomes & Takeaways
-- Learned how to []
-
-[Images]
+- Learned more about power passing through a capacitor and about its interaction on a circuit over time (i.e. how it can let electricity pass over a brief period of time).
 
 https://user-images.githubusercontent.com/55297780/156284085-d393025d-6eca-42b6-aa96-151fff4d5b68.mp4
 
-
-
 #### Comments & Variations
-- Thoughs
+- 
 
 #### Questions
-- Qs
+- What are the uses of a coupling capacitor?
 
 ### Experiment 10: Transistor Switching
 
 #### Outcomes & Takeaways
-- Learned how to []
-
-[Images]
+- Learned about the functioning of transistors and the function of each of its prongs. Learned the difference from transistor, which transmits a steady flow, and a capacitor which lets a pulse through. Learned that the flow let by the transistor can be controlled (i.e. it can let pass more or less power).
 
 https://user-images.githubusercontent.com/55297780/156284095-aa71936b-c7cc-4cf1-bcdb-b088d95ffafa.mp4
+![Transistor and Potentiometer](wk5-img/exp-10.jpg)
 
 #### Comments & Variations
-- Thoughs
+- Although the book recommends a potentiometer, the effect of the transistor was noticeable from the finger test, as "squishing" the leds harder created a stronger ligh in the LED.
 
 #### Questions
-- Qs
-
+- Can potentiometers be damaged if too much current passes through them? How can potentiometers be controlled by other components (i.e. not by hand)?
