@@ -167,7 +167,8 @@ Experiments for the week delayed. See DevLog Wk. 4
 ### Experiment 6: Very Simple Switching
 
 #### Outcomes & Takeaways
-- Learned the different types of switches and how they function in a circuit. Learned how to connect multiple switches and how they interact with one another.
+- Learned the different types of switches and how they function in a circuit. Learned how to connect multiple switches and how they interact with one another. 
+- Learned the difference between single throw and double throw switches &rarr; ST: only has two positions (ON-OFF). DT: has two positions and a "middle" (ON-OFF-ON)
 
 ![Images](wk6-img/IMG_5105.jpg)
 
