@@ -17,10 +17,9 @@ https://docs.google.com/document/d/1PAoPz-3vDPFWS5q9RHRb-dC7T4earpFXJW8w6v9wfZ0/
 
 Tom Igoe TED Talk
 
-- Tom Igoe talks about physical computing and how it revolutionized our relationship to technology by making it more accessible to the general public. He emphasizes physical computing groups that seek to increase people's tech knowledge by making open source code and cheap hardware available. 
-- quote
-- comment
-- question
+- Tom Igoe talks about physical computing and how it revolutionized our relationship to technology by making it more accessible to the general public. He emphasizes physical computing groups that seek to increase people's tech literacy by making open source code and cheap hardware available. Igoe argues for technical literacy using politics, suggesting that policies are often inadequate because policymakers are technologically iliterate.
+- Tom Igoe ultimately encourages consumers to understand the process behind their devices better so as to create better relationships with and through these devices. While true, Igoe does not seem to acknowledge that electrical and technological knowledge are often inaccessible.
+- Is technological iliteracy a coincidence of rapid technological advance or does it exist by design of large tech companies? 
 
 ### Experiments
 <!-- List each Platt experiment / Monk recipe outcome, adding notes, photos, schematics, captions to show your work. -->
