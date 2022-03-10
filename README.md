@@ -17,7 +17,7 @@ https://docs.google.com/document/d/1PAoPz-3vDPFWS5q9RHRb-dC7T4earpFXJW8w6v9wfZ0/
 
 Tom Igoe TED Talk
 
-- 3-4 sentences
+- Tom Igoe talks about physical computing and how it revolutionized our relationship to technology by making it more accessible to the general public. He emphasizes physical computing groups that seek to increase people's tech knowledge by making open source code and cheap hardware available. 
 - quote
 - comment
 - question
@@ -269,13 +269,16 @@ https://user-images.githubusercontent.com/55297780/157562651-e895393f-c30e-458b-
 ### Chapter 6: Python Lists and Dictionaries
 
 #### Outcomes & Takeaways
-- Learne
+- Learned how to create, edit, and iterate over arrays and dictionaries in Python.
 
+![Creating Arrays](wk6-img/arr-1.png)
 
+![Iterating Over Arrays](wk6-img/arr-2.png)
+
+![Dictionaries](wk6-img/dic.png)
 
 #### Comments & Variations
-- Comm
+- My Pi was turned off and I was unable to turn it back on. Due to this, I had to run all python on my Mac's python. However, this should not make a difference in outcome and I was still able to practice dictionaries and arrays.
 
 #### Questions
-- Qs
-
+- How can new items be added to dictionaries? Can arrays hold all data types?
