@@ -47,7 +47,6 @@ Experiments for the week delayed. See DevLog Wk. 2
 - Although Sarma's roadmap is reasonable in the sense that it provides a solid alternative to most security concerns with IoT, I think it is impractical, as it requires manufacturers to collaborate with each other even though they are mostly each other's competition.
 - Is Sarma's roadmap viable?
 
-<br>
 
 ### Experiments
 <!-- List each Platt experiment / Monk recipe outcome, adding notes, photos, schematics, captions to show your work. -->
@@ -93,7 +92,6 @@ Critical Engineering Manifesto + Julian Oliver's Artist Profile
 - I think it is interesting that Oliver defines engineering as a language. This has interesting implications, as engineering becomes part of other life processes rather than a discipline on its own. Oliver's definition makes engineering much more prevalent and pervasive. I think this is what makes it interesting.
 - How is Julian Oliver blurring the lines between art and engineering through his practices? Is there a real distinction between the two?
 
-<br>
 
 ### Experiments
 <!-- List each Platt experiment / Monk recipe outcome, adding notes, photos, schematics, captions to show your work. -->
@@ -104,15 +102,12 @@ Experiments for the week delayed. See DevLog Wk. 4
 
 ### Context
 
-<br>
-
 "The Preserving Machine" + "Pay for the Printer" by Phillip K. Dick, "All Watched Over by Machines of Loving Grace" Pt. 2
 - In both stories, Phillip K. Dick poses a dystopian future where men have become too reliant on machines, or in the case of "Pay for the Printer," <i>Bitlong</i> aliens with machine-like behavior. In this story, humans are born again as a civilization by going back to their origins and building tools by hand once again, losing their dependance on <i>Bitlongs</i> and their prints. In "The Preserving Machine," there seems to a be a concept of blackbox, as Doc Labyrinth does not understand the functioning of his own machine, but feels unable to turn back or alter the results. Further, this story relates to the perhaps flawed notion of nature as a perfectly balanced system presented in BBC's "All Watched Over by Machines of Loving Grace". Both of Dick's stories seem to be cautionary tales of machines functioning in the detriment of humans, wether because we expect too much of them or because we fail to understand their functionality. The BBC documentary goes a step further in presenting real life examples of communities that model life after the functioning of machines.
 - "Each time a creature came out he was astonished; he did not seem to have control over the results at all. It was out of his hands, subject to some strong, invisible law that had subtly taken over, and this worried him greatly."
 - Though this was written in the 1950s, Dick shows a concern for blackbox mechanisms, i.e. machines that function beyond the understanding and control of their creators/users. This seems to tie into our last class discussion.
 - Machines overtaking humans is an often explored path in dystopian sci-fi stories, but is overdependance in machines an equally concerning future? If so, is the trend of IOT pushing humanity in that direction?
 
-<br>
 
 ### Experiments
 <!-- List each Platt experiment / Monk recipe outcome, adding notes, photos, schematics, captions to show your work. -->
@@ -159,7 +154,6 @@ Experiments for the week delayed. See DevLog Wk. 4
 - Although the article seems critical of Apple (or, more broadly, companies who are not cognizant of their supply chains), the author seems to suggest that this is an unavoidable reality. I believe that this is true given the blackbox nature of these companies and the fact that their products exist at a scale too large to be comprehensible by every individual.
 - Does the responsability to demistify manufacturing blackboxes lie in consumers or manufacturers themselves? Can (or should be) the manufacturing process be made available to the public?
 
-<br>
 
 ### Experiments
 <!-- List each Platt experiment / Monk recipe outcome, adding notes, photos, schematics, captions to show your work. -->
@@ -235,7 +229,6 @@ https://user-images.githubusercontent.com/55297780/156284095-aa71936b-c7cc-4cf1-
 
 No Readings Assigned for Wk. 6
 
-<br>
 
 ### Experiments
 <!-- List each Platt experiment / Monk recipe outcome, adding notes, photos, schematics, captions to show your work. -->
