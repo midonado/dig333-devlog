@@ -257,7 +257,6 @@ https://user-images.githubusercontent.com/55297780/157562651-e895393f-c30e-458b-
 #### Outcomes & Takeaways
 - Learned about the basic process of joining two wires by soldering. Learned about the components of solder (tin, sponge, helping hands, etc.). Seen below in the battery, where the battery cables were soldered to a hookup wire so that it would connect better to the breadboard.
 
-https://user-images.githubusercontent.com/55297780/156284095-aa71936b-c7cc-4cf1-bcdb-b088d95ffafa.mp4
 ![Speaker Circuit](wk6-img/exp-11-speaker.jpg)
 
 #### Comments & Variations
