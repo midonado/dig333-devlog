@@ -244,7 +244,7 @@ No Readings Assigned for Wk. 6
 #### Outcomes & Takeaways
 - Learned about the functionality of transistors and RC Networks together. Learned about pulsing circuits. Learned about the effects of RC Networks on the timing of circuits.
 
-
+https://user-images.githubusercontent.com/55297780/157562651-e895393f-c30e-458b-a2cb-59582f15ead3.mp4
 
 #### Comments & Variations
 - The speaker was a bit underwhelming 🥲. Other than that, it seems as though our circuit work despite not having coupling capacitors.
