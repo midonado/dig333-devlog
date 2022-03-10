@@ -211,11 +211,8 @@ https://user-images.githubusercontent.com/55297780/156283496-38cc9833-0950-4a45-
 
 https://user-images.githubusercontent.com/55297780/156284085-d393025d-6eca-42b6-aa96-151fff4d5b68.mp4
 
-#### Comments & Variations
-- 
-
 #### Questions
-- What are the uses of a coupling capacitor?
+- What are the uses/purpose of a coupling capacitor?
 
 ### Experiment 10: Transistor Switching
 
@@ -230,3 +227,55 @@ https://user-images.githubusercontent.com/55297780/156284095-aa71936b-c7cc-4cf1-
 
 #### Questions
 - Can potentiometers be damaged if too much current passes through them? How can potentiometers be controlled by other components (i.e. not by hand)?
+
+## Week 6
+
+### Context 
+
+No Readings Assigned for Wk. 6
+
+<br>
+
+### Experiments
+<!-- List each Platt experiment / Monk recipe outcome, adding notes, photos, schematics, captions to show your work. -->
+
+### Experiment 11: Light and Sound
+
+#### Outcomes & Takeaways
+- Learned about the functionality of transistors and RC Networks together. Learned about pulsing circuits. Learned about the effects of RC Networks on the timing of circuits.
+
+
+
+#### Comments & Variations
+- The speaker was a bit underwhelming 🥲. Other than that, it seems as though our circuit work despite not having coupling capacitors.
+
+#### Questions
+- What difference do coupling capacitors make?
+
+### Experiment 12, 13: Soldering
+
+#### Outcomes & Takeaways
+- Learned about the basic process of joining two wires by soldering. Learned about the components of solder (tin, sponge, helping hands, etc.). Seen below in the battery, where the battery cables were soldered to a hookup wire so that it would connect better to the breadboard.
+
+https://user-images.githubusercontent.com/55297780/156284095-aa71936b-c7cc-4cf1-bcdb-b088d95ffafa.mp4
+![Speaker Circuit](wk6-img/exp-11-speaker.jpg)
+
+#### Comments & Variations
+- I wish we had more practice with soldering components other than wires, especially to practice with copper heatsinks.
+
+#### Questions
+- Can all wires/components be joined by soldering, or are there any exceptions?
+
+### Chapter 6: Python Lists and Dictionaries
+
+#### Outcomes & Takeaways
+- Learne
+
+
+
+#### Comments & Variations
+- Comm
+
+#### Questions
+- Qs
+
