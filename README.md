@@ -220,6 +220,7 @@ https://user-images.githubusercontent.com/55297780/156284085-d393025d-6eca-42b6-
 - Learned about the functioning of transistors and the function of each of its prongs. Learned the difference from transistor, which transmits a steady flow, and a capacitor which lets a pulse through. Learned that the flow let by the transistor can be controlled (i.e. it can let pass more or less power).
 
 https://user-images.githubusercontent.com/55297780/156284095-aa71936b-c7cc-4cf1-bcdb-b088d95ffafa.mp4
+
 ![Transistor and Potentiometer](wk5-img/exp-10.jpg)
 
 #### Comments & Variations
