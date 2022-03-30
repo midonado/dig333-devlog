@@ -274,3 +274,77 @@ https://user-images.githubusercontent.com/55297780/157562651-e895393f-c30e-458b-
 
 #### Questions
 - How can new items be added to dictionaries? Can arrays hold all data types?
+
+### Chapter 8: GPIO Basics
+
+#### Outcomes & Takeaways
+- I learned that a PiCobbler (PCB) makes integrating circuits with an RPi a lot faster and more convenient by allowing all the circuitry to be connected to the RPi at once. Further, I was able to setup my Pi for I2C use and was able to power a very simple circuit using a Pi
+
+![I2C Setup](wk6-img/i2c-setup.png)
+
+![Breadboard Pi](wk6-img/breadboard-pi.jpg)
+
+#### Comments & Variations
+- The book and the notes seem to be offset, but I wish the book went into more details into how to power/send signals through a Pi into a Raspberry board. It might be covered in future chapters, though.
+
+#### Questions
+- How can I send more complex signals using an RPi?
+
+
+## Week 7
+
+### Context 
+
+No Readings Assigned for Wk. 7
+
+
+### Experiments
+<!-- List each Platt experiment / Monk recipe outcome, adding notes, photos, schematics, captions to show your work. -->
+
+<!-- Monk Ch. 10 -->
+
+### Chapter 10: Controlling Hardware
+
+#### Outcomes & Takeaways
+- 
+
+#### Comments & Variations
+- 
+
+#### Questions
+- 
+
+
+## Week 8
+
+### Context 
+
+No Readings Assigned for Wk. 8
+
+
+### Experiments
+<!-- List each Platt experiment / Monk recipe outcome, adding notes, photos, schematics, captions to show your work. -->
+
+
+### Chapter 11: Digital Inputs
+
+#### Outcomes & Takeaways
+- 
+
+#### Comments & Variations
+- 
+
+#### Questions
+- 
+
+
+### Chapter 12: Sensors
+
+#### Outcomes & Takeaways
+- 
+
+#### Comments & Variations
+- 
+
+#### Questions
+- 
