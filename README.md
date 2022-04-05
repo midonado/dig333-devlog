@@ -307,9 +307,12 @@ No Readings Assigned for Wk. 7
 
 ### Chapter 9: Controlling Hardware
 
-
 #### Outcomes & Takeaways
 - Although the book focuses on RPi.GPIO and does not mention gpiozero, I learned the basics of outputting GPIO signals and the interactions between the Pi and simple circuits
+
+https://user-images.githubusercontent.com/55297780/161842870-817ad617-67c0-4d4f-aad1-480d28d74601.mp4
+
+https://user-images.githubusercontent.com/55297780/161842883-af0014b9-612b-4195-b936-dd11c4fc7045.mp4
 
 #### Comments & Variations
 - There are differences between the book notes and the book itself
