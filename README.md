@@ -290,7 +290,6 @@ https://user-images.githubusercontent.com/55297780/157562651-e895393f-c30e-458b-
 #### Questions
 - How can I send more complex signals using an RPi?
 
-<!--
 ## Week 7
 
 ### Context 
@@ -299,20 +298,21 @@ No Readings Assigned for Wk. 7
 
 ### Experiments
 
-<!-- Monk Ch. 10 
+<!-- Monk Ch. 10 -->
 
-### Chapter 10: Controlling Hardware
+### Chapter 9: Controlling Hardware
+
 
 #### Outcomes & Takeaways
-- 
+- Although the book focuses on RPi.GPIO and does not mention gpiozero, I learned the basics of outputting GPIO signals and the interactions between the Pi and simple circuits
 
 #### Comments & Variations
-- 
+- There are differences between the book notes and the book itself
 
 #### Questions
-- 
+- Are there any other methods of controlling GPIO? Why is GPIO.BCM prefered
 
-
+<!--
 ## Week 8
 
 ### Context 
