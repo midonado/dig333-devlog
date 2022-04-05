@@ -226,7 +226,12 @@ https://user-images.githubusercontent.com/55297780/156284095-aa71936b-c7cc-4cf1-
 
 ### Context 
 
-No Readings Assigned for Wk. 6
+"Igloo White" by John Correll, "Unseen Sensors" by Mayo Nissen
+
+- 
+- 
+- 
+- 
 
 
 ### Experiments
