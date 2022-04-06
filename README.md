@@ -308,7 +308,7 @@ No Readings Assigned for Wk. 7
 ### Chapter 9: Controlling Hardware
 
 #### Outcomes & Takeaways
-- Although the book focuses on RPi.GPIO and does not mention gpiozero, I learned the basics of outputting GPIO signals and the interactions between the Pi and simple circuits
+- Although the book focuses on RPi.GPIO and does not mention gpiozero, I learned the basics of outputting GPIO signals and the interactions between the Pi and simple circuits. The videos below were controlled by python scripts or commands through the CLI.
 
 https://user-images.githubusercontent.com/55297780/161842870-817ad617-67c0-4d4f-aad1-480d28d74601.mp4
 
@@ -318,9 +318,9 @@ https://user-images.githubusercontent.com/55297780/161842883-af0014b9-612b-4195-
 - There are differences between the book notes and the book itself
 
 #### Questions
-- Are there any other methods of controlling GPIO? Why is GPIO.BCM prefered
+- Are there any other methods of controlling GPIO? Why is GPIO.BCM prefered?
 
-<!--
+
 ## Week 8
 
 ### Context 
@@ -342,7 +342,7 @@ No Readings Assigned for Wk. 8
 #### Questions
 - 
 
-
+<!--
 ### Chapter 12: Sensors
 
 #### Outcomes & Takeaways
