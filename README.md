@@ -336,6 +336,12 @@ No Readings Assigned for Wk. 8
 #### Outcomes & Takeaways
 - 
 
+
+https://user-images.githubusercontent.com/55297780/161870902-af57c4b8-86e8-412a-8e62-f1ae4406048f.mp4
+
+https://user-images.githubusercontent.com/55297780/161870905-ff8a6b4d-f57f-49b8-997b-3204a39a691d.mp4
+
+
 #### Comments & Variations
 - 
 
