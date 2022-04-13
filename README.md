@@ -228,10 +228,10 @@ https://user-images.githubusercontent.com/55297780/156284095-aa71936b-c7cc-4cf1-
 
 "Igloo White" by John Correll, "Unseen Sensors" by Mayo Nissen
 
-- 
-- 
-- 
-- 
+- Igloo White refers to an espionage project carried out by the US military during the Vietnam War. After a series of failed espionage attempts through light, movement, and sound sensors, the US Army was able to develop 'Igloo White,' a series of sensors hid in trees and bushes meant to track the movement of Viet trucks to enact US air strikes. Similarly, "Unseen Sensors" describes the many sensors used in NYC (and other large cities) that track traffic, temperature, etc. Both texts describe the use of sensors in spaces transited by general population, and their potentially militaristic use.
+- "Our future won’t arrive in a sweeping, clearly defined transformation represented by an inevitably shiny rendering or seductively simple diagram, even if those are the futures that make headlines. Rather these changes happen incrementally, infiltrating our everyday bit by bit as technology falls in price and grows in utility, availability, and reliability, and becomes socially and politically palatable."
+- Though the sensors in both readings have noticeably different uses, both seem to hold a certain threat over the people being "sensed". Admittedly, though, they do have some benefits. The use of sensors, especially "against" civilian population seems to be an ethical gray area.
+- What are the ethics of using sensors on the population? Is there ever a justifiable use of sensors (especially unseen)?
 
 
 ### Experiments
