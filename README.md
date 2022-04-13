@@ -334,7 +334,7 @@ No Readings Assigned for Wk. 8
 ### Chapter 11: Digital Inputs
 
 #### Outcomes & Takeaways
-- 
+- I learned how to connect digital inputs (buttons, switches) to an RPi and how to make them trigger events in scripts. 
 
 
 https://user-images.githubusercontent.com/55297780/161870902-af57c4b8-86e8-412a-8e62-f1ae4406048f.mp4
@@ -343,23 +343,25 @@ https://user-images.githubusercontent.com/55297780/161870905-ff8a6b4d-f57f-49b8-
 
 
 #### Comments & Variations
-- 
+- Although we did not have all the types of switch available, I was able to understand the how an RPi processes inputs and how it triggers events in programs
 
 #### Questions
 - 
 
-<!--
 ### Chapter 12: Sensors
 
 #### Outcomes & Takeaways
 - 
 
+https://user-images.githubusercontent.com/55297780/163276572-edf9cc2e-cdd4-410f-ba23-ebe6226d1d88.mov
+
+
 #### Comments & Variations
-- 
+- Although my trimpot experint ouput different numbers to the values expected according to the book, the circuit worked as expected (i.e. values increased or decreased consistely depending on the direction I rotated).
 
 #### Questions
 - 
--->
+
 ## Week 9
 
 ### Milestone 1
