@@ -375,3 +375,5 @@ https://user-images.githubusercontent.com/55297780/161658274-eab29da5-e5e0-481c-
 
 My second milestone built upon the sucess of the previous week. I was able to implement my 4-digit 7-segment display and adapt the [code](milestone-2-file/test.py) from my previous milestone to the new display. I was able to create a temporary circuit on a breadboard that executes the code and displays the time left until 5 PM followed by "til 5". Moving forward, I intend to make this circuit permanent by using a copper board and soldering the wires and resistors accordingly.
 
+https://user-images.githubusercontent.com/55297780/163268999-0f769a45-20a5-4fa2-95fb-d2df99c8f564.mp4
+
