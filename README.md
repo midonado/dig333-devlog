@@ -336,7 +336,6 @@ No Readings Assigned for Wk. 8
 #### Outcomes & Takeaways
 - I learned how to connect digital inputs (buttons, switches) to an RPi and how to make them trigger events in scripts. 
 
-
 https://user-images.githubusercontent.com/55297780/161870902-af57c4b8-86e8-412a-8e62-f1ae4406048f.mp4
 
 https://user-images.githubusercontent.com/55297780/161870905-ff8a6b4d-f57f-49b8-997b-3204a39a691d.mp4
@@ -346,21 +345,23 @@ https://user-images.githubusercontent.com/55297780/161870905-ff8a6b4d-f57f-49b8-
 - Although we did not have all the types of switch available, I was able to understand the how an RPi processes inputs and how it triggers events in programs
 
 #### Questions
-- 
+- Does the constant state of 'awaiting input' impact the performance of the script? Can this state be damaging to the RPi if used for long periods of time?
 
 ### Chapter 12: Sensors
 
 #### Outcomes & Takeaways
-- 
+- I learned how an RPi takes advantage of a capacitor's mechanism of discharging and recharging to obtain a reading from whatever sensor is connected. I learned how to wire a simple sensor to the RPi and how to read/display its value using a simple python script. The video below shows a script reading the input from a trimpot.
 
 https://user-images.githubusercontent.com/55297780/163276572-edf9cc2e-cdd4-410f-ba23-ebe6226d1d88.mov
 
+![Trimpot Sensor](wk8-img/trimpot.jpg)
+![Methane Sensor](wk8-img/methane.jpg)
 
 #### Comments & Variations
 - Although my trimpot experint ouput different numbers to the values expected according to the book, the circuit worked as expected (i.e. values increased or decreased consistely depending on the direction I rotated).
 
 #### Questions
-- 
+- How can these values be used in larger programs? Reading the methane sensor took significantly longer than the trimpot, how do sensors impact the efficiency/runtime of larger programs?
 
 ## Week 9
 
