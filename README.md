@@ -385,4 +385,6 @@ https://user-images.githubusercontent.com/55297780/163268999-0f769a45-20a5-4fa2-
 
 ### Milestone 3
 
-Text
+My third milestone was to translate my breadboard circuit into a permanent, soldered circuit board. This proved more difficult than I had originally planned. Although I have currently not finished soldering a final circuit, I was able to make important decisions regarding what this would look like and, consequently, what the final form of my object will be. Below are some photos of the process, including a diagram of the final circuit made on Figma. I have also continued to update and cleanup my [code](milestone-3-files/test.py) as well as adding documentation to the file.
+
+
