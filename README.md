@@ -2,7 +2,7 @@
 
 # dig333-devlog
 
-#### Weeks: [1](#week-1) [2](#week-2) [3](#week-3) [4](#week-4) [5](#week-5) [6](#week-6) [7](#week-7) [8](#week-8) [9](#week-9) [10](#week-10) [13](#week-13) [14](#week-14) [15](#week-15)
+#### Weeks: [1](#week-1) [2](#week-2) [3](#week-3) [4](#week-4) [5](#week-5) [6](#week-6) [7](#week-7) [8](#week-8) [9](#week-9) [10](#week-10) [13](#week-13) [15](#week-15)
 
 
 <!--
@@ -392,3 +392,24 @@ My third milestone was to translate my breadboard circuit into a permanent, sold
 ![Circuit Diagram](milestone-3-files/circuit-diagram.png)
 
 
+## Week 15
+
+### Milestone 4
+
+In the final two weeks, I picked up from my efforts in the previous milestone and finished the final version of my circuit, replicating the diagram. I also soldered the definitive version of my input switch. Additionally I used the display's packaging foam as a stabilizer to keep everything in place.
+
+![Circuit](milestone-4-files/circuit.jpg)
+
+I focused on the physical form of my 'thing'. I looked into other gadgets with a similar form, that is, a simple display operated by one or few buttons.
+
+#### Moodboard:
+
+![Moodboard](milestone-4-files/moodboard.png)
+
+Finally, I moved into building my actual 'thing' by repurposing a cardboard box to fit my project.
+
+![Cardboard Box](milestone-4-files/cardboard-box.jpg)
+![Inside](milestone-4-files/inside.jpg)
+![Final 'Thing'](milestone-4-files/final.jpg)
+
+Finally, here is a video of the final 'thing', functioning:
