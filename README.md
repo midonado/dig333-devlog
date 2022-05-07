@@ -413,3 +413,9 @@ Finally, I moved into building my actual 'thing' by repurposing a cardboard box 
 ![Final 'Thing'](milestone-4-files/final.jpg)
 
 Finally, here is a video of the final 'thing', functioning:
+
+
+
+https://user-images.githubusercontent.com/55297780/167265424-7dd6da54-b7a0-4fbd-819c-7c733f0aa0a3.mp4
+
+
